@@ -9,7 +9,7 @@
 ![rancwb's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanCwb&show_icons=true&theme=onedark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanCwb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanCwb&bg_color=01050e&color=70f5b0&line=5a4c9e&point=199aa3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
