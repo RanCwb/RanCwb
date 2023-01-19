@@ -5,10 +5,12 @@
 
 [![linkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranathan-henrique-708970206/)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanCwb&bg_color=0e1110&color=c8b8a3&line=3500f5&point=269c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanCwb&show_icons=true&theme=radical)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanCwb&bg_color=0e1110&color=c8b8a3&line=3500f5&point=269c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanCwb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que utilizo!
