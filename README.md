@@ -1,11 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+Sou+Ranathan+Henrique!)](https://git.io/typing-svg)
 
+  
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rancwb/)
 
 [![linkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranathan-henrique-708970206/)
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanCwb&bg_color=080808&color=ffffff&line=0171e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RanCwb&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FFE600&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
