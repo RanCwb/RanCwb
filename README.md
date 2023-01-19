@@ -5,12 +5,12 @@
 
 [![linkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranathan-henrique-708970206/)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanCwb&bg_color=0e1110&color=c8b8a3&line=3500f5&point=269c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanCwb&bg_color=080808&color=ffffff&line=0171e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanCwb&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanCwb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RanCwb&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FFE600&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanCwb&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 
 ## Tecnologias que utilizo!
